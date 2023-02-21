@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+
+span,a , strong {
+    border: 1px solid #222;
+}
+
+div, h1, p {
+    border: 1px solid #6098ff;
+}
+
+a {
+    display: inline-block;
+    padding: 20px;
+}
