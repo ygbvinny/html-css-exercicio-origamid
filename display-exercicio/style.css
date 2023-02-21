@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+span {
+    color: #febe01;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+    margin: 0px;
+    margin-top: 10px;
+    padding: 12px;
+    border-radius: 4px;
+    color: #111;
+    background-color: #febe01;
+    font-size: 16px;
+    
+}
+
+div.card {
+    border-radius: 10px;
+    height: 100px;
+    margin-left: 70px;
+    margin-right: 70px;
+    padding: 50px;
+    background-color: #111;
+}
+
+h1 {
+    text-align: center;
+    padding: 30px;
+}
+
+h2, p {
+    display: block;
+    color: white;
+}
+p {
+    padding-top: 20px;
+    margin-left: -10px;
+}
+
+h2 {
+    margin-top: -20px;
+    margin-left: -10px;
+}
+
+div > p.desc {
+    padding-top: 10px;
+}
